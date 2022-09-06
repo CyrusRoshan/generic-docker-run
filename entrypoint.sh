@@ -1,0 +1,1 @@
+exec $INPUT_COMMAND
