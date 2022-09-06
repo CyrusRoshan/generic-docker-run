@@ -7,5 +7,6 @@ inputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
-color: blue
-icon: box
+branding:
+  icon: 'box'  
+  color: 'blue'
